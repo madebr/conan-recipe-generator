@@ -1,0 +1,6 @@
+All files of the conan-recipe-generator project are licensed under GNU Affero GPLv3 release,
+of which the full license text can be found in COPYING.AGPLv3.
+There is an exception for the generated files by this project.
+
+The generated conan recipes, including test package, are licensed under the WTFPL,
+of which the full license text can be found in COPYING.WTFPL.

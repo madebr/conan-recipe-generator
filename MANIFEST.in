@@ -1,0 +1,1 @@
+recursive-include conan_recipe_generator/template/files *
