@@ -1,5 +1,7 @@
 # conan-recipe-generator
 
+[![PyPI version](https://badge.fury.io/py/conan-recipe-generator.svg)](https://badge.fury.io/py/conan-recipe-generator)
+
 Conan-recipe-generator creates recipes for c/c++ source releases.
 
 ## How to use
